@@ -1,0 +1,63 @@
+
+body{
+font-family: 'Great Vibes', cursive;
+font-family: 'Merriweather Sans', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Titillium Web', sans-serif;
+}
+  #page_title{
+    text-align: center;
+    margin: auto;
+
+    font-family: Titillium Web;
+  }
+  hr{
+    width: 13%;
+    margin: auto;
+
+  }
+  .card-container{
+    justify-content: space-evenly;
+  }
+  #little-title{
+    text-align: center;
+    margin: auto;
+
+    font-family: Merriweather Sans;
+  }
+  body{
+    background-image: url("");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+  }
+  #SEE{
+    color: black;
+  }
+  #SEES{
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+  
+  }
+
+
+
+
+
+
+  #container{
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    gap: 1%;
+  
+  }
+  
+
+
+  
+ 
+  
+ 
